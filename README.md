@@ -13,15 +13,15 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anees-abbasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aneesabbasi19)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anees-abbasi)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anees-abbasi&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/anees-abbasi?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/anees-abbasi?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Aneesabbasi19&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Aneesabbasi19?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/Aneesabbasi19?style=for-the-badge&color=6D28D9&labelColor=1a1a2e&logo=github)
 
 </div>
 
@@ -280,10 +280,10 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anees-abbasi)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anees-abbasi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/anees-abbasi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/anees-abbasi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Aneesabbasi19)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Aneesabbasi19)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Aneesabbasi19)
+[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Aneesabbasi19)
 
 </div>
 
@@ -293,12 +293,12 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anees-abbasi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://streak-stats.demolab.com?user=anees-abbasi&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aneesabbasi19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://streak-stats.demolab.com?user=Aneesabbasi19&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anees-abbasi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aneesabbasi19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 </div>
 
@@ -308,7 +308,7 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anees-abbasi&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aneesabbasi19&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)
 
 </div>
 
@@ -318,7 +318,7 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anees-abbasi&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aneesabbasi19&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9)
 
 </div>
 
@@ -328,7 +328,7 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/anees-abbasi/anees-abbasi/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Aneesabbasi19/Aneesabbasi19/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -366,8 +366,8 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-aneesabbasitg%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anees-abbasi)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anees-abbasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aneesabbasi19)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
