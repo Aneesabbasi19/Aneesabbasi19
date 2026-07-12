@@ -68,7 +68,7 @@ Ranked **8th Nationally (94/100, 100th percentile)** among 33,000+ students in t
 
 ![PyTorch](https://skillicons.dev/icons?i=pytorch&theme=dark)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-8B5CF6?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="assets/logos/scikit-learn.png" height="48" />
 ![Pandas](https://skillicons.dev/icons?i=pandas&theme=dark)
 ![OpenCV](https://skillicons.dev/icons?i=opencv&theme=dark)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-6D28D9?style=flat-square&logoColor=white)
@@ -85,9 +85,9 @@ Ranked **8th Nationally (94/100, 100th percentile)** among 33,000+ students in t
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![PowerBI](https://img.shields.io/badge/Power_BI-4C1D95?style=flat-square&logo=powerbi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-5B21B6?style=flat-square&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square&logo=streamlit&logoColor=white)
+<img src="assets/logos/powerbi.png" height="48" />
+<img src="assets/logos/n8n.png" height="48" />
+<img src="assets/logos/streamlit.png" height="48" />
 
 </div>
 
