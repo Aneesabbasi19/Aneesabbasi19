@@ -12,8 +12,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aneesabbasi19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-abbasi-381224397)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
 
@@ -112,87 +111,46 @@ Ranked **8th Nationally (94/100, 100th percentile)** among 33,000+ students in t
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-<details>
-<summary><b>🩺 Dual-Model Ensemble Skin Disease Detection System</b></summary>
+<div align="center">
 
-<br/>
+### 🩺 Dual-Model Ensemble Skin Disease Detection System
+**PAF-IAST × National Centre of Physics (NCP), Islamabad — Final Year Project**
 
-PAF-IAST × National Centre of Physics (NCP), Islamabad — Final Year Project. A clinical-grade computer vision system combining two independent classification backbones with a real-time detection model to identify **8 skin conditions**: Melanoma, Basal Cell Carcinoma, Acne, Psoriasis, Melanocytic Nevus, Vascular Lesion, Molluscum Contagiosum, and Benign Keratosis.
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19/SkinDiseaseDetection-Classification)
+
+</div>
+
+A clinical-grade computer vision system combining two independent classification backbones with a real-time detection model to identify **8 skin conditions** — including Melanoma, Acne, Psoriasis, and Benign Keratosis.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | PyTorch, ConvNeXtV2-Base, EfficientNetV2-M, YOLOv8m, Streamlit |
-| **Scale** | Trained on HAM10000 / ISIC dermatology datasets |
+| **Dataset** | HAM10000 / ISIC dermatology datasets |
 | **Performance** | 91.42% Top-1 Accuracy · 91.18% Precision · 91.71% Recall · 91.18% F1-score |
-| **Security** | Local model inference, no external data transmission |
 | **Impact** | Assistive clinical screening tool for underserved healthcare access |
-| **Repository** | [View Repository](#) |
 
-Built as an ensemble to reduce single-model bias, this system fuses classification confidence from two CNN backbones with YOLOv8m bounding-box lesion localization, then applies Focal Loss (γ=2.5), Stochastic Weight Averaging, and Exponential Moving Average to stabilize convergence and generalization. Deployed through a Streamlit interface supporting image upload, bounding-box visualization, and confidence scoring.
+Built as an ensemble to reduce single-model bias, this system fuses classification confidence from two CNN backbones with YOLOv8m bounding-box lesion localization, then applies Focal Loss (γ=2.5), Stochastic Weight Averaging, and Exponential Moving Average to stabilize convergence and generalization.
 
-</details>
-
-<details>
-<summary><b>💬 NLP Projects — Dermatology Chatbot & HuggingFace Pipelines</b></summary>
-
+<div align="center">
 <br/>
 
-A suite of NLP systems spanning conversational AI, text generation, and speech processing.
+**Live Demo — Multi-lesion Acne Detection**
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, HuggingFace Transformers, Flask, NLTK, Whisper, BERT |
-| **Scale** | Multi-pipeline system: chatbot + 3 NLP pipelines |
-| **Performance** | Fine-tuned transformer-based response accuracy |
-| **Security** | Local pipeline execution |
-| **Impact** | Domain-specific conversational support for dermatology queries |
-| **Repository** | [View Repository](#) |
+<img src="demo-screenshots/acne-detection.png" width="90%" />
+<img src="demo-screenshots/acne-result.png" width="60%" />
 
-Built a dermatology-focused chatbot using TF-IDF retrieval combined with a fine-tuned transformer model, alongside standalone HuggingFace pipelines for prompt-based and dataset-based text generation, Whisper-powered speech-to-text, and transformer-based sentiment analysis.
+<br/><br/>
 
-</details>
+**Live Demo — Melanoma Detection**
 
-<details>
-<summary><b>🚗 Driver Drowsiness Detection System</b></summary>
+<img src="demo-screenshots/melanoma-detection.png" width="90%" />
+<img src="demo-screenshots/melanoma-result.png" width="60%" />
 
-<br/>
+</div>
 
-Real-time computer vision safety system for detecting driver fatigue using facial landmark tracking.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, OpenCV, MediaPipe |
-| **Scale** | Real-time video stream inference |
-| **Performance** | Continuous Eye Aspect Ratio (EAR) monitoring |
-| **Security** | On-device, no video data stored |
-| **Impact** | Accident-prevention safety alert system |
-| **Repository** | [View Repository](#) |
-
-Uses real-time Eye Aspect Ratio (EAR) computation and facial landmark detection via MediaPipe to identify prolonged eye closure or head-nodding patterns, triggering immediate audio-visual alerts to prevent fatigue-related accidents.
-
-</details>
-
-<details>
-<summary><b>🤖 n8n AI Automation Agents</b></summary>
-
-<br/>
-
-A set of no-code AI agents built and deployed via Docker for real-world workflow automation.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | n8n, Docker, Local AI Execution, Web Search APIs |
-| **Scale** | 3 production-style agents |
-| **Performance** | Automated multi-step content & research pipelines |
-| **Security** | Self-hosted, Dockerized local deployment |
-| **Impact** | Reduced manual research and content workflows |
-| **Repository** | [View Repository](#) |
-
-Includes a real-time web research agent (Google/Yahoo/Bing), an inbox auto-labeling agent, and a YouTube-to-content pipeline generating sales copy, social posts (X, Facebook, Instagram, LinkedIn), and transcript summaries.
-
-</details>
+> More projects (NLP dermatology chatbot, driver drowsiness detection, n8n automation agents) — repositories coming soon.
 
 ---
 
@@ -276,19 +234,6 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 ---
 
-## 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Aneesabbasi19)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Aneesabbasi19)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Aneesabbasi19)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Aneesabbasi19)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -366,9 +311,8 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-aneesabbasitg%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Aneesabbasi19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-abbasi-381224397)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
