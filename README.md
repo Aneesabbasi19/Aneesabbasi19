@@ -215,20 +215,20 @@ Supported digital growth strategy for an early-stage incubation environment.
 
 **Simplilearn**
 
-![Power BI](https://img.shields.io/badge/Power_BI_for_Beginners-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query_in_Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Excel Automation](https://img.shields.io/badge/Excel_Automation_w%2F_ChatGPT-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace_Projects-6D28D9?style=for-the-badge&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n_No_Code_AI_Agent_Builder-6D28D9?style=for-the-badge&logo=n8n&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI_for_Beginners-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white)](assets/certificates/power-bi-beginners.pdf)
+[![Power Query](https://img.shields.io/badge/Power_Query_in_Excel-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white)](assets/certificates/power-query-excel.pdf)
+[![Excel Automation](https://img.shields.io/badge/Excel_Automation_w%2F_ChatGPT-6D28D9?style=for-the-badge&logo=openai&logoColor=white)](assets/certificates/excel-automation-chatgpt.pdf)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace_Projects-6D28D9?style=for-the-badge&logo=huggingface&logoColor=black)](assets/certificates/huggingface-projects.pdf)
+[![n8n](https://img.shields.io/badge/n8n_No_Code_AI_Agent_Builder-6D28D9?style=for-the-badge&logo=n8n&logoColor=white)](assets/certificates/n8n-course.pdf)
 
 **Coursera**
 
-![Excel Copilot](https://img.shields.io/badge/Excel_%26_Copilot_Fundamentals_(Microsoft)-4C1D95?style=for-the-badge&logo=microsoft&logoColor=white)
-![CVAT](https://img.shields.io/badge/Annotate_%26_Analyze_Objects_for_Vision-4C1D95?style=for-the-badge&logo=opencv&logoColor=white)
+[![Excel Copilot](https://img.shields.io/badge/Excel_%26_Copilot_Fundamentals_(Microsoft)-4C1D95?style=for-the-badge&logo=microsoft&logoColor=white)](https://coursera.org/verify/F5Q29993DZ0U)
+[![CVAT](https://img.shields.io/badge/Annotate_%26_Analyze_Objects_for_Vision-4C1D95?style=for-the-badge&logo=opencv&logoColor=white)](https://coursera.org/verify/ZWAZME74XC9P)
 
 **HEC / PSEB / P@SHA**
 
-![NSCT](https://img.shields.io/badge/NSCT_2026-94%2F100_%7C_100th_Percentile-8B5CF6?style=for-the-badge&logo=starship&logoColor=white)
+[![NSCT](https://img.shields.io/badge/NSCT_2026-94%2F100_%7C_100th_Percentile-8B5CF6?style=for-the-badge&logo=starship&logoColor=white)](assets/certificates/nsct-result.pdf)
 
 </div>
 
