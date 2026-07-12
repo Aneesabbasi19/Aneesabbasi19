@@ -12,7 +12,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-abbasi-381224397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-a-381224397)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
 
@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="35%" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/svgs/gradient-purple.svg" />
+<img align="right" width="220" src="assets/profile-photo.png" style="border-radius: 12px; margin-left: 20px;" />
 
 ```yaml
 name: "Anees Abbasi"
@@ -311,7 +311,7 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-aneesabbasitg%40gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aneesabbasitg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-abbasi-381224397)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anees-a-381224397)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aneesabbasi19)
 
 </div>
